@@ -1,2 +1,2 @@
-clone the repository
-open index.html file in your browser
+###clone the repository
+###open index.html file in your browser
